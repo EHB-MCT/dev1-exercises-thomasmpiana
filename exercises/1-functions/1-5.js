@@ -22,7 +22,7 @@ function rect() {
 function circle() {
     context.beginPath();
     context.arc(280, 250, 100, 3.15, 0);
-    context.strokeStyle = "yellow"
+    context.strokeStyle = "black"
     context.fillStyle = "yellow"
     context.fill();
     context.stroke();
