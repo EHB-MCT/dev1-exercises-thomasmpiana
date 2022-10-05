@@ -38,7 +38,3 @@ function blueRect() {
     context.fill();
     context.stroke();
 }
-
-
-
-//context.ellipse(280, 260, 150, 50, Math.PI * .99, 0, Math.PI);
