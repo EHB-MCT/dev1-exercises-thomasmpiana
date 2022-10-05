@@ -34,7 +34,7 @@ function babyRect() {
     context.rect(170, 500, 30, 30);
     context.fillStyle = "black"
     context.fill();
-    context.strokeStyle = "black"
+    context.strokeStyle = "red"
     context.stroke();
 }
 
