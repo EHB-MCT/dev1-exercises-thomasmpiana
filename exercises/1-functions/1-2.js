@@ -16,7 +16,7 @@ function box() {
     context.lineTo(150, 150);
     context.lineTo(50, 150);
     context.lineTo(50, 50);
-    context.lineWidth = 3
+    context.lineWidth = 2
     context.stroke();
 }
 
