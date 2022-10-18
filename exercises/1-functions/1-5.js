@@ -22,7 +22,7 @@ function rect() {
 function circle() {
     context.beginPath();
     context.arc(280, 250, 100, 3.15, 0);
-    context.strokeStyle = "black"
+    context.strokeStyle = "yellow"
     context.fillStyle = "yellow"
     context.fill();
     context.stroke();
@@ -38,3 +38,7 @@ function blueRect() {
     context.fill();
     context.stroke();
 }
+
+
+
+//context.ellipse(280, 260, 150, 50, Math.PI * .99, 0, Math.PI);

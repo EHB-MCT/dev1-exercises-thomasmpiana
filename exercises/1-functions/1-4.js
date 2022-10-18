@@ -79,4 +79,3 @@ function square5() {
     context.stroke();
 
 }
-//made by Thomas Mpiana
