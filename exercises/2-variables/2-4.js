@@ -1,11 +1,7 @@
+import context from "../../scripts/context.js";
+
 "use strict"
-let canvas = document.querySelector("canvas");
-let context = canvas.getContext("2d");
-canvas.width = window.innerWidth;
-canvas.height = window.innerHeight;
-let height = innerHeight;
-let width = innerWidth;
-let outwidth = outerWidth;
+
 
 //context.arc(280, 250, 100, 3.15, 0);
 
